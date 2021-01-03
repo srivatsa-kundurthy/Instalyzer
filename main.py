@@ -2,7 +2,7 @@ import Instadata2
 import DM2_structured
 
 
-username =
+username = 
 password =
 target =
 message =
